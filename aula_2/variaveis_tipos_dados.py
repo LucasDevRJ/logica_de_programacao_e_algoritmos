@@ -15,3 +15,10 @@ print(resposta)
 
 resposta = a != b
 print(resposta)
+
+frase = 'Olá Mundo!'
+print(frase)
+
+# acessando índice da variável
+print(frase[0])
+print(frase[2])
