@@ -1,0 +1,1 @@
+help(print) #irá exibir informações sobre a função print, para asssim ajudar o usuário.
