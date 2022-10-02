@@ -1,6 +1,6 @@
 games = {'nome':[], 'videogame':[], 'ano':[]}
 
-for i in range(3):
+for i in range(1):
     nome = input('Qual é o nome do jogo: ')
     videogame = input('Para qual videogame ele foi lançado?')
     ano = input('Qual o ano de lançamento: ')

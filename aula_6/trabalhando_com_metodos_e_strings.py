@@ -11,7 +11,7 @@ print(''.join(s1))
 
 s2 = 'Lógica de Programação e Algoritmos'
 print(s2.startswith('Lógica')) #verifica se começa com a string
-print(s2.startswith('Algoritmos')) #verifica se termina com a string
+print(s2.endswith('Algoritmos')) #verifica se termina com a string
 print(s2.lower()) #converte tudo para minusculo
 print(s2.upper()) #converte tudo para maiusculo
 print(s2.count('a')) #conta a quantidade de tal caracter
