@@ -1,0 +1,6 @@
+Jogo: Gears of War
+Console: Xbox 360
+Jogo: Gears of War 2
+Console: Xbox 360
+Jogo: Gears of War 3
+Console: Xbox 360
